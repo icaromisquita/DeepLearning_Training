@@ -1,2 +1,11 @@
-# DeepLearning_Training
-A collection of some notebooks I used to learn an train my skils in deepLearning with TensorFlow 
+A collection of some notebooks I used to learn and train my skils with deep learning models using TensorFlow 
+
+⚙ Libraries Used 
+  🔹 Pandas
+  🔹 MatplotLib
+  🔹 Numpy
+  🔹 SciKit Learning
+  🔹 Tensorflow
+  🔹 Seaborn
+  
+⚙ 
