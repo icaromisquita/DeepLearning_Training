@@ -8,4 +8,4 @@ A collection of some notebooks I used to learn and train my skills with deep lea
   🔹 Tensorflow </br>
   🔹 Seaborn </br>
   
-⚙ 
+
